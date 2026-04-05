@@ -185,9 +185,13 @@ The goal is to understand why customers leave and provide actionable insights to
 
 ## 📸 Dashboard Preview
 
-(Overview.png)
-(churn Analysis.png)
-(Risk and Retention insights.png)
+## 📸 Dashboard Preview
+
+![Overview](Overview.png)
+
+![Churn Analysis](Churn Analysis.png)
+
+![Risk & Retention](Risk and Retention insights.png)
 
 ---
 
